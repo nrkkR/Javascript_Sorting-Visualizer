@@ -62,4 +62,10 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
+## Credits
+
+- **Author**: Rajdeep Mondal
+- **GitHub**: [nrkkR](https://github.com/nrkkR)
+- **LinkedIn**: [Rajdeep Mondal](https://www.linkedin.com/in/rajdeep-mondal)
+
 
