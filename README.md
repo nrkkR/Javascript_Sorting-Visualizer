@@ -53,6 +53,12 @@ The application allows users to generate new arrays quickly, enabling repeated v
 ## Screenshots
 <img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_Sorting-Visualizer/blob/main/sorting%20visualizer.png">
 
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
